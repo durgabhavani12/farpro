@@ -11,5 +11,5 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'target/my-web-app'
+  base-directory: 'target/doll'
 
